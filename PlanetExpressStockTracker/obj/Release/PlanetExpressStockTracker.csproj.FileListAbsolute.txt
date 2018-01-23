@@ -1,0 +1,11 @@
+\\vmware-host\Shared Folders\Desktop\PlanetExpressStockTracker\PlanetExpressStockTracker\bin\Release\PlanetExpressStockTracker.exe.config
+\\vmware-host\Shared Folders\Desktop\PlanetExpressStockTracker\PlanetExpressStockTracker\bin\Release\Logo.png
+\\vmware-host\Shared Folders\Desktop\PlanetExpressStockTracker\PlanetExpressStockTracker\bin\Release\PlanetExpressStockTracker.exe
+\\vmware-host\Shared Folders\Desktop\PlanetExpressStockTracker\PlanetExpressStockTracker\bin\Release\PlanetExpressStockTracker.pdb
+\\vmware-host\Shared Folders\Desktop\PlanetExpressStockTracker\PlanetExpressStockTracker\bin\Release\System.Management.Automation.dll
+\\vmware-host\Shared Folders\Desktop\PlanetExpressStockTracker\PlanetExpressStockTracker\obj\Release\PlanetExpressStockTracker.Form1.resources
+\\vmware-host\Shared Folders\Desktop\PlanetExpressStockTracker\PlanetExpressStockTracker\obj\Release\PlanetExpressStockTracker.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\PlanetExpressStockTracker\PlanetExpressStockTracker\obj\Release\PlanetExpressStockTracker.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Desktop\PlanetExpressStockTracker\PlanetExpressStockTracker\obj\Release\PlanetExpressStockTracker.exe
+\\vmware-host\Shared Folders\Desktop\PlanetExpressStockTracker\PlanetExpressStockTracker\obj\Release\PlanetExpressStockTracker.pdb
+\\vmware-host\Shared Folders\Desktop\PlanetExpressStockTracker\PlanetExpressStockTracker\obj\Release\PlanetExpressStockTracker.csprojResolveAssemblyReference.cache
